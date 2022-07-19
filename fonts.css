@@ -1,0 +1,30 @@
+@font-face {
+   font-family: "Source Sans Pro";
+   src: url("fonts/Source Sans Pro Bold.woff") format("woff"), url("fonts/Source Sans Pro Bold.eot") format("embedded-opentype"), url("fonts/Source Sans Pro Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Source Sans Pro";
+   src: url("fonts/Source Sans Pro Bold Italic.woff") format("woff"), url("fonts/Source Sans Pro Bold Italic.eot") format("embedded-opentype"), url("fonts/Source Sans Pro Bold Italic.otf") format("opentype");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Source Sans Pro";
+   src: url("fonts/Source Sans Pro Italic.woff") format("woff"), url("fonts/Source Sans Pro Italic.eot") format("embedded-opentype"), url("fonts/Source Sans Pro Italic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Source Sans Pro";
+   src: url("fonts/Source Sans Pro.woff") format("woff"), url("fonts/Source Sans Pro.eot") format("embedded-opentype"), url("fonts/Source Sans Pro.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Akhand-Bold";
+   src: url("fonts/u261eAkhand Bold.woff") format("woff"), url("fonts/u261eAkhand Bold.eot") format("embedded-opentype"), url("fonts/u261eAkhand Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
