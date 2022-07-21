@@ -1,6 +1,7 @@
 {
  "name": "Tour Virtual 360º - Lucão Pet",
  "display": "fullscreen",
+ "background_color": "#990066",
  "icons": [
   {
    "type": "image/png",
@@ -38,7 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#990099",
- "start_url": "index.htm",
- "theme_color": "#990099"
+ "theme_color": "#990066",
+ "start_url": "index.htm"
 }
